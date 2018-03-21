@@ -19,5 +19,5 @@
   },
   "scripts": {
     "test": "node test"
-  },
+  }
 }
