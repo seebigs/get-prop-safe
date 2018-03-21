@@ -1,0 +1,23 @@
+{
+  "name": "get-prop-safe",
+  "version": "1.0.0",
+  "description": "Safely get nested properties on an object if they exist",
+  "keywords": [
+    "safe",
+    "nested",
+    "deep",
+    "properties",
+    "access"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syntaxable/get-prop-safe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/syntaxable/get-prop-safe/issues"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+}
